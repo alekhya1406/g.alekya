@@ -1,0 +1,10 @@
+# Python program to read and print your name and address using the input() function.
+  
+name = input("Enter your name: ") 
+print(name)
+
+address = input("Enter your address:")
+print (address)
+
+mobile = input("Enter your mobile number:")
+print(mobile)
